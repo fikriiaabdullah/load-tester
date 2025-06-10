@@ -1,0 +1,3 @@
+1. Source Code: https://github.com/fikriiaabdullah/load-tester
+2. Penjelasan A4: https://docs.google.com/document/d/1ByrOfzPEyLKU4Cs8ZSenq0mKVlO68tBUrvAcbc0lkbE/edit?usp=sharing
+3. Video Demo: https://youtu.be/f6LBPMqNsKY
